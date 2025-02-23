@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://lucentix.github.io',
+  site: 'https://lucentix.github.io/docs',
   base: '/docs',
   integrations: [
     starlight({
@@ -14,7 +14,7 @@ export default defineConfig({
         {
           label: 'Guides',
           items: [
-            { label: 'Example Guide', slug: 'docs/guides/example' },
+            { label: 'Example Guide', slug: 'guides/example' },
           ],
         },
         {
