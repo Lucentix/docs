@@ -12,9 +12,9 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Guides',
+          label: 'Information',
           items: [
-            { label: 'Example Guide', slug: 'guides/example' },
+            { label: 'Welcome', slug: 'info/welcome' },
           ],
         },
         {
