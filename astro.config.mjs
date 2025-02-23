@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 export default defineConfig({
   site: 'https://lucentix.github.io',
-  basepath: '/docs',
+  base: '/docs',
   integrations: [
     starlight({
       title: 'My Docs',
