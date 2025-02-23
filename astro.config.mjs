@@ -9,7 +9,8 @@ export default defineConfig({
       title: 'Lucentix Documentation',
       description: 'Documentation for Lucentix.',
       social: {
-        github: 'https://github.com/withastro/starlight',
+        github: 'https://github.com/Lucentix',
+        discord: 'https://lucentix.github.io/discord',
       },
       sidebar: [
         {
