@@ -20,10 +20,6 @@ export default defineConfig({
             { label: 'Privacy Policy', slug: 'info/pp' },
           ],
         },
-        {
-          label: 'Reference',
-          autogenerate: { directory: 'reference' },
-        },
       ],
     }),
   ],
