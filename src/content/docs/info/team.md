@@ -3,8 +3,6 @@ title: Meet the Lucentix Team
 description: Get to know the talented developers behind Lucentix's open-source projects.
 ---
 
-# The Lucentix Team
-
 At Lucentix, we are a passionate group of developers dedicated to creating high-quality open-source tools and projects. Here's a look at the team that makes it all happen.
 
 ## Our Team
