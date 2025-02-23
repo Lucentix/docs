@@ -6,7 +6,8 @@ export default defineConfig({
   base: '/docs',
   integrations: [
     starlight({
-      title: 'My Docs',
+      title: 'Lucentix Documentation',
+      description: 'Documentation for Lucentix.',
       social: {
         github: 'https://github.com/withastro/starlight',
       },
