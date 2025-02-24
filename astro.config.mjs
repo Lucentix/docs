@@ -22,6 +22,14 @@ export default defineConfig({
             { label: 'Privacy Policy', slug: 'info/pp' },
           ],
         },
+          {
+            label: 'Project Cards',
+            items: [
+              { label: 'Introduction', slug: 'project-cards/introduction' },
+              { label: 'Gameplay', slug: 'project-cards/gameplay' },
+              { label: 'Technical', slug: 'project-cards/technical' },
+            ],
+        },
       ],
     }),
   ],
